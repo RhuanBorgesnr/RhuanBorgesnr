@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rhuan Borges de Noronha</h1>
+<h1 align="center">Hi 👋, I'm Rhuan Borges</h1>
 
 <div>
   <a href="https://github.com/rhuanborgesnr">
